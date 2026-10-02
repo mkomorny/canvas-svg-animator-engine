@@ -22,3 +22,7 @@ A high-performance vector graphics animation generator that transforms static SV
 ## Instructions
 
 See [INSTRUCTIONS.md](./INSTRUCTIONS.md) for command-line syntax and web integration.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](./LICENSE) file for details.
