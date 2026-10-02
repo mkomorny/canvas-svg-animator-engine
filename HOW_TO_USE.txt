@@ -1,0 +1,44 @@
+HOW TO USE: canvas-svg-animator
+================================
+
+PURPOSE
+  Transforms static SVG vector graphics into high-performance animated widgets
+  with glowing neon traces, laser outline drawing, continuous spins, and pulse blooms.
+
+CAPABILITIES
+  - Laser-Trace Drawing: Vector lines draw themselves sequentially on screen
+  - Pulse / Neon Glow: Ambient breathing neon glow and drop-shadow bloom
+  - Radar Spin: Continuous smooth mechanical or sweep rotation
+  - Combo Mode: Sequential laser draw followed by infinite ambient neon breathing
+  - Outputs standalone interactive HTML showcase player + clean copy-paste CSS keyframes
+
+USE CASES
+  - Bring flat UI icons or logo vectors to life with a futuristic laser draw effect
+  - Animate radar sweeps, compass dials, or tape reels
+  - Add ambient neon breathing effects to HUD viewports and synth faceplates
+
+IDEAS
+  - Combine radar rotation with laser-trace drawing for high-tech HUD radars
+  - Apply ambient neon breathing to audio hardware knobs and VU meters
+  - Embed animated SVG sprites into dashboard headers for active telemetry feeds
+
+PROMPTS YOU CAN PASTE
+  Make this SVG icon draw itself onto the screen with a laser trace.
+
+  Add a glowing neon pulse animation to this HUD vector.
+
+  Create an animated radar sweep in SVG.
+
+  Animate this vector graphic with a cyan glow.
+
+EXAMPLE FLOW
+  You:   Make this radar graphic draw itself with an ambient cyan glow.
+  Model: [Injects animation keyframes and generates preview]
+         - Preview Player: ./animated_preview.html
+         - Copy-paste CSS keyframes provided in chat.
+
+DEFAULT GOALS IF YOU DON'T NAME ONE
+  1. Inspect the provided SVG paths and stroke structure
+  2. Apply combo animation (laser-trace draw + looping neon breathing glow)
+  3. Generate interactive HTML preview player with centered glowing canvas
+  4. Provide clean standalone CSS keyframe code snippet for easy copy-paste
